@@ -1,9 +1,12 @@
 [
 null,
-{"id":1,"expanded":false,"name":"テストマップ","order":1,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
-{"id":2,"expanded":false,"name":"ストーリー１","order":2,"parentId":0,"scrollX":650.4,"scrollY":366},
-{"id":3,"expanded":false,"name":"ステージ選択","order":3,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
-{"id":4,"expanded":false,"name":"ステージ１　ウン公園","order":4,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
-{"id":5,"expanded":false,"name":"ステージ２　うんこ通り","order":5,"parentId":0,"scrollX":915.4285714285713,"scrollY":624},
-{"id":6,"expanded":false,"name":"ステージ３　うんこ谷","order":6,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
+{"id":1,"expanded":true,"name":"テストマップ","order":1,"parentId":0,"scrollX":720,"scrollY":406.6666666666667},
+{"id":2,"expanded":true,"name":"ストーリー１","order":3,"parentId":0,"scrollX":720,"scrollY":406.6666666666667},
+{"id":3,"expanded":false,"name":"ステージ選択","order":2,"parentId":1,"scrollX":720,"scrollY":406.6666666666667},
+{"id":4,"expanded":false,"name":"ステージ１　ウン公園","order":4,"parentId":2,"scrollX":709.3333333333334,"scrollY":601.3333333333334},
+{"id":5,"expanded":false,"name":"ステージ２　うんこ通り","order":5,"parentId":0,"scrollX":709.3333333333334,"scrollY":732},
+{"id":6,"expanded":false,"name":"ステージ３　うんこ谷","order":6,"parentId":0,"scrollX":709.3333333333334,"scrollY":553.3333333333334},
+{"id":7,"expanded":false,"name":"ステージ４　うんこブリブリッジ","order":7,"parentId":0,"scrollX":720,"scrollY":396},
+{"id":8,"expanded":false,"name":"ステージ５　ウン工場","order":8,"parentId":0,"scrollX":709.3333333333334,"scrollY":804},
+{"id":9,"expanded":false,"name":"ステージ６　雲地ペンギン公園","order":9,"parentId":0,"scrollX":709.3333333333334,"scrollY":1044}
 ]
